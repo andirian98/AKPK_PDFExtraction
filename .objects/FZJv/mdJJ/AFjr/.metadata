@@ -1,0 +1,12 @@
+﻿{
+  "Id": "AFjr2um4c06PPw7WYmLqWA",
+  "Reference": "zCOGlYrfmEStQzM4adzBCg/AFjr2um4c06PPw7WYmLqWA",
+  "ParentRef": "zCOGlYrfmEStQzM4adzBCg/mdJJ6ExXxUq-XOdQxi9kXg",
+  "Name": "Edge: _PROPOSAL_M1_M4313309022023102953_0.pdf",
+  "Type": "Screen",
+  "Created": "2023-02-17T06:52:27.5851225Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.1.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-17T06:52:27.5851225Z"
+}
